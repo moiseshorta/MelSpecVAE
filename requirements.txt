@@ -1,0 +1,7 @@
+tensorflow-gpu
+soundfile
+torchaudio==0.5
+git+https://github.com/pvigier/perlin-numpy
+librosa
+matplotlib
+tqdm
