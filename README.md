@@ -5,6 +5,9 @@ Website: <a href=http://moiseshorta.audio>moiseshorta.audio</a>
 
 Twitter: <a href=http://twitter.com/hexorcismos>@hexorcismos</a>
 
+<a href="https://colab.research.google.com/github/moiseshorta/MelSpecVAE/blob/master/MelSpecVAE_v1.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a><br>
 MelSpecVAE is a Variational Autoencoder that can synthesize Mel-Spectrograms which can be inverted into raw audio waveform.
 Currently you can train it with any dataset of .wav audio at 44.1khz Sample Rate and 16bit bitdepth.
  
