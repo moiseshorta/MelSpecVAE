@@ -1,9 +1,9 @@
 # MelSpecVAE
 by Moisés Horta Valenzuela, 2021
 
-Website: moiseshorta.audio
+Website: <a href=http://moiseshorta.audio>moiseshorta.audio</a>
 
-Twitter: @hexorcismos
+Twitter: <a href=http://twitter.com/hexorcismos>@hexorcismos</a>
 
 MelSpecVAE is a Variational Autoencoder that can synthesize Mel-Spectrograms which can be inverted into raw audio waveform.
 Currently you can train it with any dataset of .wav audio at 44.1khz Sample Rate and 16bit bitdepth.
