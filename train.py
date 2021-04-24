@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-#import tensorflow as tf
 import tensorflow as tf
 import os
 
@@ -18,10 +16,10 @@ import soundfile as sf
 from utility import get_time_stamp
 
 #Hyperparameters
-LEARNING_RATE = 0.0005 #@param {type:"raw"}
-EPOCHS =  40#@param {type:"integer"}
-BATCH_SIZE  = 64 #@param {type:"integer"}
-VECTOR_DIM = 64 #@param {type:"integer"}
+LEARNING_RATE = 0.0005
+EPOCHS =  40
+BATCH_SIZE  = 64 
+VECTOR_DIM = 64
 
 hop=256               #hop size (window size = 4*hop)
 sr=44100              #sampling rate
@@ -120,7 +118,7 @@ def deprep(S):
   wv = GRAD(np.expand_dims(S,0), melspecfunc, maxiter=2500, evaiter=10, tol=1e-8)
   return np.array(np.squeeze(wv))
 
-#---------Helper functions
+#---------Helper functions------------#
 
 #Generate spectrograms from waveform array
 def tospec(data):
@@ -259,10 +257,10 @@ print(np.shape(adata))
 
 #Start training from scratch or resume training
 
-training_run_name = "aerofonos_test_train" #@param {type:"string"}
-checkpoint_save_directory = "/home/hexorcismos/Desktop/AI/MelSpecVAE/checkpoints/" #@param {type:"string"}
-resume_training = False #@param {type:"boolean"}
-resume_training_checkpoint_path = "/content/drive/MyDrive/MelSpecVAE/Amazondotcom_e320_22_4_2021_1417_h256_w128_z64" #@param {type:"string"}
+training_run_name = "aerofonos_test_train" 
+checkpoint_save_directory = "/home/hexorcismos/Desktop/AI/MelSpecVAE/checkpoints/"
+resume_training = False 
+resume_training_checkpoint_path = "/content/drive/MyDrive/MelSpecVAE/Amazondotcom_e320_22_4_2021_1417_h256_w128_z64" 
 current_time = get_time_stamp()
 
 if __name__ == "__main__":
