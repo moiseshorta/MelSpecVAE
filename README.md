@@ -1,5 +1,5 @@
 # MelSpecVAE
-by Moisés Horta Valenzuela, 2021
+Author: Moisés Horta Valenzuela, 2021
 
 Website: <a href=http://moiseshorta.audio>moiseshorta.audio</a>
 
