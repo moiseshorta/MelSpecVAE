@@ -1,4 +1,4 @@
-tensorflow-gpu
+tensorflow-gpu==2.0.0
 soundfile
 torchaudio==0.5
 git+https://github.com/pvigier/perlin-numpy
