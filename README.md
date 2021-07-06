@@ -1,4 +1,5 @@
 # MelSpecVAE
+<img src=https://github.com/moiseshorta/MelSpecVAE/blob/main/melspecVAE.png width="75%" height="75%">
 
 Author: Moisés Horta Valenzuela, 2021
 
