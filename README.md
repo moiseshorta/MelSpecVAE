@@ -26,4 +26,4 @@ Listen to audio examples here: https://soundcloud.com/h-e-x-o-r-c-i-s-m-o-s/sets
 * VAE neural network architecture coded following 'The Sound of AI' Youtube tutorial series by Valerio Velardo
 * Some utility functions from Marco Passini's MelGAN-VC Jupyter Notebook.
 
-Full documentation and tutorial soon...
+
