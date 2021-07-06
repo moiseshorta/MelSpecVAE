@@ -1,7 +1,5 @@
 # MelSpecVAE
 
-<img src=https://github.com/moiseshorta/MelSpecVAE/blob/main/SEMILLA_MoisesHortaV.png>
-
 Author: Moisés Horta Valenzuela, 2021
 
 Website: <a href=http://moiseshorta.audio>moiseshorta.audio</a>
