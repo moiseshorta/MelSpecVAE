@@ -7,6 +7,12 @@ Website: <a href=http://moiseshorta.audio>moiseshorta.audio</a>
 
 Twitter: <a href=http://twitter.com/hexorcismos>@hexorcismos</a>
 
+Español:
+<a href="https://colab.research.google.com/github/moiseshorta/MelSpecVAE/blob/master/MelSpecVAE_v1_Esp.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a><br>
+
+English:
 <a href="https://colab.research.google.com/github/moiseshorta/MelSpecVAE/blob/master/MelSpecVAE_v1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><br>
